@@ -1,6 +1,6 @@
 This was the third project of the first sprint on the Technigo Frontend Bootcamp, which was focused on HTML and CSS.
 
-1. What is this?
+## 1. What is this?
 
 The purpose of this assignment was to learn how to work with hero image/video, implement an accordion menu and a signup form with some validation.
 These were the requirements for the project:
@@ -24,11 +24,11 @@ These were some requirements for a deep-dive in this project:
 * Add a header and/or a button on top of your video by using position: absolute and z-index to get everything in the right place.
 * Make every other row in the accordion have another background color.
 
-2. What did I do?
+## 2. What did I do?
 
 I've focused on the form implementation first and some basic validation. The hero video was added to the entire screen and the header position was adjusted using absolute. 
 There's a simple JS script to control the display/hide of different containers. The accordion menu is under the FAQ section and I've used the adjacent sibling combinator to add a class that helps hiding/display the content under a section.
 
-3. Where can you see it in action?
+## 3. Where can you see it in action?
 
 You can see the project [here](https://wonderful-murdock-e1473d.netlify.com).
