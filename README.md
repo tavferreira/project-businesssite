@@ -17,7 +17,7 @@ These were the requirements for the project:
     1. Click a section title to expand its description.
     2. Click the title again to collapse the description.
 
-These were some requirements for a deep-dive in this project:
+These were some suggestions for a deep-dive in this project:
 
 * Try out some other form elements or input types.
 * Add some validation to the form.
