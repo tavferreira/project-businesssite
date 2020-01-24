@@ -1,8 +1,6 @@
-This was the third project of the first sprint on the Technigo Frontend Bootcamp, which was focused on HTML and CSS.
-
 ## 1. What is this?
 
-The purpose of this assignment was to learn how to work with hero image/video, implement an accordion menu and a signup form with some validation.
+The purpose of this project was to learn how to work with hero image/video, implement an accordion menu and a signup form with some validation.
 These were the requirements for the project:
 
 * Site should have a header with responsive image/video, a signup form, and a FAQ accordion.
